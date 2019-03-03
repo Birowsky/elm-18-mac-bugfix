@@ -1,0 +1,19 @@
+{
+  "name": "elm-18-mac-bugfix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birowsky/elm-18-mac-bugfix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birowsky/elm-18-mac-bugfix/issues"
+  },
+  "homepage": "https://github.com/birowsky/elm-18-mac-bugfix#readme"
+}
